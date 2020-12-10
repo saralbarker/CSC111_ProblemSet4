@@ -1,0 +1,75 @@
+1. Number of problems: 4, smallest and largest (range): 2 12
+Welcome to the Multiplication Quiz!
+How many problems do you want to work on?
+4
+What is the smallest number you want to use?
+2
+What is the biggest number you want to use?
+12
+Q1: What is 5 x 10
+50
+Correct!
+Q2: What is 4 x 5
+20
+Correct!
+Q3: What is 3 x 10
+2
+Incorrect, the right answer is 30.
+Q4: What is 7 x 11
+77
+Correct!
+Your final result is 75.00%
+Process finished with exit code 0
+
+-----------------------------------------------
+
+2. Number of problems: 3, smallest and largest (range): 2 10
+Welcome to the Multiplication Quiz!
+How many problems do you want to work on?
+3
+What is the smallest number you want to use?
+2
+What is the biggest number you want to use?
+10
+Q1: What is 9 x 9
+81
+Correct!
+Q2: What is 7 x 8
+30
+Incorrect, the right answer is 56.
+Q3: What is 10 x 4
+40
+Correct!
+Your final result is 66.67%
+Process finished with exit code 0
+
+-----------------------------------------------
+
+3. Number of problems: 6, smallest and largest (range): 1 5
+Welcome to the Multiplication Quiz!
+How many problems do you want to work on?
+6
+What is the smallest number you want to use?
+1
+What is the biggest number you want to use?
+5
+Q1: What is 3 x 5
+15
+Correct!
+Q2: What is 2 x 3
+6
+Correct!
+Q3: What is 3 x 4
+12
+Correct!
+Q4: What is 4 x 1
+4
+Correct!
+Q5: What is 2 x 2
+4
+Correct!
+Q6: What is 4 x 4
+10
+Incorrect, the right answer is 16.
+Your final result is 83.33%
+Process finished with exit code 0

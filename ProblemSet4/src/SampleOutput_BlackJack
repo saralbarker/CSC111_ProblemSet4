@@ -1,0 +1,78 @@
+Welcome to Black Jack!
+Player's turn...
+Card: 6
+Current score: 6
+Select: (h) Hit me again! or (d) I’m done.
+h
+Player's turn...
+Card: 4
+Current score: 10
+Select: (h) Hit me again! or (d) I’m done.
+h
+Player's turn...
+Card: 10
+Current score: 20
+Select: (h) Hit me again! or (d) I’m done.
+h
+Player's turn...
+Card: 1
+Current score: 21
+Select: (h) Hit me again! or (d) I’m done.
+d
+Player's total score is: 21
+Dealer's turn...
+Card: 5
+Current score: 5
+Dealer's turn...
+Card: 3
+Current score: 8
+Dealer's turn...
+Card: 11
+Current score: 19
+Dealer's total score is: 19
+Player wins!
+Want to play again? (y/n)
+y
+
+Welcome to Black Jack!
+Player's turn...
+Card: 1
+Current score: 1
+Select: (h) Hit me again! or (d) I’m done.
+h
+Player's turn...
+Card: 4
+Current score: 5
+Select: (h) Hit me again! or (d) I’m done.
+h
+Player's turn...
+Card: 3
+Current score: 8
+Select: (h) Hit me again! or (d) I’m done.
+h
+Player's turn...
+Card: 8
+Current score: 16
+Select: (h) Hit me again! or (d) I’m done.
+h
+Player's turn...
+Card: 7
+Current score: 23
+Select: (h) Hit me again! or (d) I’m done.
+d
+Player's total score is: 23
+Dealer's turn...
+Card: 8
+Current score: 8
+Dealer's turn...
+Card: 11
+Current score: 19
+Dealer's total score is: 19
+Dealer wins!
+Want to play again? (y/n)
+n
+
+Player won 1 time(s).
+Dealer won 1 time(s).
+
+Process finished with exit code 0
